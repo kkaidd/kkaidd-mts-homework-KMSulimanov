@@ -2,6 +2,6 @@ package ru.mts.homework;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!-Вносим изменения согласно заданию");
+        System.out.println("Hello world!-Вносим изменения для ветки bugfix-branch (git checkout -b bugfix-branch)");
     }
 }
