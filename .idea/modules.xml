@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/lesson_2.iml" filepath="$PROJECT_DIR$/lesson_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson_2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson_2.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson_2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson_2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_3_Homework.iml" filepath="$PROJECT_DIR$/lesson_3_Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson_3_Homework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson_3_Homework.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson_3_Homework.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson_3_Homework.test.iml" />
     </modules>
   </component>
 </project>
