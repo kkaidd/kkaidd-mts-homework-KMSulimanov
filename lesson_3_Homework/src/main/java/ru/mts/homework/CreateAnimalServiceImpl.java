@@ -38,7 +38,7 @@ public class CreateAnimalServiceImpl implements CreateAnimalService {
         System.out.println("Создано новое животное: " + breed);
     }
 
-    public void createAnimalOverloaded(int count) { // Перегруженный метод?!
+    public void createAnimal(int count) { // Перегруженный метод?!
         for (int i = 0; i < count; i++) {
             createAnimal();
         }
@@ -50,5 +50,8 @@ public class CreateAnimalServiceImpl implements CreateAnimalService {
             createAnimal();
             count++;
         } while (count < 3);
+    }
+    public void callDefaultMethod() {
+        CreateAnimalService.super.createTenAnimals(); // вызов дефолтного метода через объект интерфейса
     }
 }
