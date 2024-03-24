@@ -5,6 +5,9 @@
       <module name="lesson_2" target="20" />
       <module name="lesson_2.main" target="20" />
       <module name="lesson_2.test" target="20" />
+      <module name="lesson_3_Homework" target="20" />
+      <module name="lesson_3_Homework.main" target="20" />
+      <module name="lesson_3_Homework.test" target="20" />
     </bytecodeTargetLevel>
   </component>
 </project>
