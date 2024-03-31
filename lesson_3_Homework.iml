@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="lesson_3_Homework" external.linked.project.path="$MODULE_DIR$/lesson_3_Homework" external.root.project.path="$MODULE_DIR$/lesson_3_Homework" external.system.id="GRADLE" external.system.module.group="ru.mts.homework" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/lesson_3_Homework">
+      <excludeFolder url="file://$MODULE_DIR$/lesson_3_Homework/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/lesson_3_Homework/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-20" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
