@@ -1,8 +1,11 @@
 package ru.mts.homework;
 
-public interface Animal {
-    String getBreed();
+import java.time.LocalDate;
 
+public interface Animal {
+    void setBirthDate(LocalDate birthDate);
+    LocalDate getBirthDate();
+    String getBreed();
     String getName();
 
     double getCost();
