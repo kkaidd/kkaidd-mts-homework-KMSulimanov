@@ -8,12 +8,6 @@ public class Cat extends Pet {
     }
 
     @Override
-    public String getName() {
-        super.getName();
-        System.out.println("Cat");
-        return name;
-    }
-    @Override
     public void setName(String newName) {
         super.setName(newName);
         System.out.println(newName);

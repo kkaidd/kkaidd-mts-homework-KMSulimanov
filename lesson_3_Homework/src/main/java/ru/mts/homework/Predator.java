@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public class Predator extends AbstractAnimal {
     public Predator(String breed, String name, double cost, String character, LocalDate birthDay) {
-        super(breed, name, cost, character,birthDay);
+        super(breed, name, cost, character, birthDay);
     }
 
     @Override
@@ -12,10 +12,6 @@ public class Predator extends AbstractAnimal {
 
     }
 
-    @Override
-    public LocalDate getBirthDate() {
-        return null;
-    }
     @Override
     public String getName() {
         System.out.println("Домашние животные");
@@ -27,11 +23,13 @@ public class Predator extends AbstractAnimal {
         System.out.println("Домашние животные");
         return breed;
     }
+
     @Override
     public double getCost() {
         System.out.println("Домашние животные");
         return cost;
     }
+
     @Override
     public String getCharacter() {
         System.out.println("Домашние животные");

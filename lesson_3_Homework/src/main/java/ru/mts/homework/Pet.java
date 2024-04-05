@@ -13,12 +13,6 @@ public class Pet extends AbstractAnimal {
     }
 
     @Override
-    public String getName() {
-        System.out.println("getName животного");
-        return name;
-    }
-
-    @Override
     public void setName(String newName) {
         super.setName(newName);
         System.out.println(newName);
